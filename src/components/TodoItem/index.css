@@ -1,0 +1,13 @@
+.back {
+  display: flex;
+}
+.para {
+  margin-right: 30px;
+}
+.button {
+  border-radius: 15px;
+  border-color: #ff0b37;
+  background-color: transparent;
+  color: #ff0b37;
+  padding: 10px;
+}
